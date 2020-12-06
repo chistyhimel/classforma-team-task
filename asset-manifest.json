@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/classforma-team-task/static/css/main.fe3ea3ad.chunk.css",
+    "main.js": "/classforma-team-task/static/js/main.1d647de5.chunk.js",
+    "main.js.map": "/classforma-team-task/static/js/main.1d647de5.chunk.js.map",
+    "runtime-main.js": "/classforma-team-task/static/js/runtime-main.51a36964.js",
+    "runtime-main.js.map": "/classforma-team-task/static/js/runtime-main.51a36964.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/classforma-team-task/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d9e36d4b.chunk.js": "/classforma-team-task/static/js/2.d9e36d4b.chunk.js",
+    "static/js/2.d9e36d4b.chunk.js.map": "/classforma-team-task/static/js/2.d9e36d4b.chunk.js.map",
+    "static/js/3.860a485b.chunk.js": "/classforma-team-task/static/js/3.860a485b.chunk.js",
+    "static/js/3.860a485b.chunk.js.map": "/classforma-team-task/static/js/3.860a485b.chunk.js.map",
+    "index.html": "/classforma-team-task/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/classforma-team-task/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.fe3ea3ad.chunk.css.map": "/classforma-team-task/static/css/main.fe3ea3ad.chunk.css.map",
+    "static/js/2.d9e36d4b.chunk.js.LICENSE.txt": "/classforma-team-task/static/js/2.d9e36d4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51a36964.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d9e36d4b.chunk.js",
+    "static/css/main.fe3ea3ad.chunk.css",
+    "static/js/main.1d647de5.chunk.js"
+  ]
+}
