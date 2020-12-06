@@ -1,0 +1,23 @@
+.documentView {
+  font-family: "Poppins", sans-serif;
+  margin-top: 50px;
+}
+.documentView__textbox {
+  border: 1px solid black;
+  height: 600px;
+  padding: 25px;
+  text-align: justify;
+}
+
+.annotationBar {
+  border: 1px solid black;
+  height: 600px;
+  padding: 10px;
+  text-align: justify;
+  margin-top: 120px;
+}
+
+::selection {
+  color: black;
+  background: yellow;
+}
