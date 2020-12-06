@@ -26,7 +26,6 @@ const DocumentView = () => {
   const handleMouseUp = () => {
     let selectedText = window.getSelection().toString();
     let newWord = [...annotation, selectedText];
-    console.log(newWord);
     setAnnotation(newWord);
   };
   return (
